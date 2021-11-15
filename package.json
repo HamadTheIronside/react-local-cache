@@ -1,6 +1,6 @@
 {
   "name": "react-local-cache",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/index.tsx",
   "peerDependencies": {
     "react": "^17.0.2",
@@ -30,5 +30,15 @@
   },
   "dependencies": {
     "lru_map": "^0.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamadTheIronside/react-local-cache.git"
+  },
+  "author": "Abdolah Keshtkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HamadTheIronside/react-local-cache/issues"
+  },
+  "homepage": "https://github.com/HamadTheIronside/react-local-cache#readme"
 }
