@@ -15,3 +15,4 @@ Supporting LRU data structure for caching. This hook is used to cache the data i
 - Adding examples of useCache hook with multiple cache stores
 - Adding Documentation
 - fixing typescript errors
+- adding tests
